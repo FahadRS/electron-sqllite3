@@ -13,7 +13,7 @@
 [![Tweet][twitter-badge]][twitter]
 
 # Introduction
-
+This is Electron Sample with Angualr and Sqlite3
 Bootstrap and package your project with Angular 12 and Electron 13 (Typescript + SASS + Hot Reload) for creating Desktop applications.
 
 Currently runs with:
